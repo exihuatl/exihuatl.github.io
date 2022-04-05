@@ -36,15 +36,19 @@
 	}
 
 	h1 {
+		margin: 0.25em;
 		display: inline;
-		background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
-		-webkit-background-clip: text;
-		-webkit-text-fill-color: transparent;
+
 		font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif,
 			'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 		font-size: 2.75em;
 		font-weight: 200;
-		margin: 0.25em;
+
+		background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+		background: linear-gradient(0deg, rgba(255, 215, 0, 1) 40%, rgba(0, 87, 184, 1) 40%);
+
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
 	}
 
 	ul {
