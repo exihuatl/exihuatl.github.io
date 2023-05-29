@@ -43,6 +43,7 @@
 			'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 		font-size: 2.75em;
 		font-weight: 200;
+		text-align: center;
 
 		background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
 		background: linear-gradient(0deg, rgba(255, 215, 0, 1) 40%, rgba(0, 87, 184, 1) 40%);
